@@ -1,0 +1,13 @@
+{
+  "name": "social-site-collection",
+  "version": "1.0.0",
+  "manifest_version": 2,
+  "description": "Quick launch",
+  "icons": {
+    "128": "ss.png"
+  },
+  "browser_action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
